@@ -11,6 +11,7 @@
 - skm_steedie_contraband
 - skm_steedie_contraband2
 - skm_steedie_contramini
+- skm_basic
 - skm_bridge
 - skm_crowncrest_day
 - skm_crowncrest_night
