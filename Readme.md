@@ -22,3 +22,4 @@
 - ffa_steedie_contraband
 - ffa_steedie_plateau
 - ffa_crowncrest_night
+- tow_newfrontier
